@@ -16,7 +16,7 @@ if len(sys.argv) > 1:
 else:
     print("Usage: checkjson.py <file>")
 
-#To run it:
+#To run it NOW:
 
 #....>   $ checkjson test.json
 
